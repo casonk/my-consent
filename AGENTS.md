@@ -15,6 +15,16 @@ Documentation-only repository for personal consent and data-processing consent s
 - Prefer additive, clearly explained documentation updates over rewrites.
 - Do not commit private personal identifiers beyond what the public consent text is meant to disclose.
 
+## Local CI Verification
+
+Run before every push:
+
+```bash
+pre-commit run --all-files
+```
+
+Do not push changes that have not passed all checks locally.
+
 ## Portfolio Standards Reference
 
 For portfolio-wide repository standards and baseline conventions, consult the control-plane repo at `./util-repos/traction-control` from the portfolio root.
