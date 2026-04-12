@@ -35,8 +35,8 @@ This consent may include processing of personal data categories such as:
 - This consent does not waive any requirement to keep sensitive data private, secured, access-controlled, and handled only as needed for the tool's intended purpose.
 - This consent may be narrowed, replaced, or revoked by me at any time.
 
-**Signature:**  
+**Signature:**
 Cason Konzer
 
-**Date:**  
+**Date:**
 2026-04-03

@@ -1,4 +1,4 @@
-# REFS-PUBLIC.md — Public References
+# REFS-PUBLIC.md - Public References
 
 > Record external public repositories, datasets, documentation, APIs, or other
 > public resources that this repository utilizes or depends on.
@@ -6,22 +6,16 @@
 
 ## Public Repositories
 
-<!-- External repos this project depends on, forks, or integrates with:
-- https://github.com/org/repo — description of usage
--->
+- No standing external public repositories are required; this repo is authored consent text for internal portfolio services.
 
 ## Public Datasets and APIs
 
-<!-- Publicly accessible data sources, REST APIs, or external feeds consumed here:
-- https://example.com/dataset — description of usage
--->
+- No standing public datasets or APIs are required; the repository stores authored consent statements rather than service integrations.
 
 ## Documentation and Specifications
 
-<!-- Reference docs, RFCs, standards, or upstream project documentation:
-- https://docs.example.com — description
--->
+- No fixed external specifications are currently required beyond the public product or policy pages named inside specific consent documents when relevant.
 
 ## Notes
 
-<!-- Any context about how these public references are used or versioned -->
+- Add provider-specific public policy or product links here only when a consent document depends on them as a durable reference.
