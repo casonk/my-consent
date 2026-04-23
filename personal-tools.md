@@ -9,9 +9,12 @@ This consent applies to my portfolio of personal tools, including supporting uti
 I authorize these personal tools to process my personal data for purposes such as:
 
 - account and credential management
+- model-assisted extraction, classification, summarization, drafting, and agentic workflows
 - personal finance ingestion, reconciliation, reporting, and notification workflows
 - receipt capture, categorization, storage, and downstream reporting
+- supplement, nutrition, sourcing, and comparison workflows
 - private messaging, alerting, and communication workflows
+- digital-asset, wallet, and related operational workflows that I intentionally enable
 - VPN, remote-access, device, and file-sharing operations
 - personal files, configuration, and operational metadata management
 - documentation, architecture, auditing, and automation workflows that support my personal systems
@@ -21,10 +24,13 @@ I authorize these personal tools to process my personal data for purposes such a
 This consent may include processing of personal data categories such as:
 
 - contact and account information
+- model prompts, outputs, and local utilization metadata when AI-assisted workflows are enabled
 - personal financial records, statements, balances, and receipts
+- supplement, ingredient, dosage, delivery-form, and preference data that I intentionally manage
 - private files and file-sharing metadata
 - device, network, and operational configuration data
 - authentication, credential, and access-management data
+- digital-asset, wallet, and related account metadata that I intentionally manage
 - message content, notification content, and related delivery metadata
 - other personal records that I intentionally provide to or manage through these tools
 

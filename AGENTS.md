@@ -7,6 +7,13 @@ Documentation-only repository for personal consent and data-processing consent s
 ## Repository Layout
 
 - `README.md` — brief repo description
+- `personal-tools.md` — general personal-tools consent
+- `ai-and-model-processing.md` — AI/model-processing consent
+- `financial-records.md` — financial-data consent
+- `health-and-supplement-data.md` — health/supplement-data consent
+- `messaging-and-email.md` — messaging/email consent
+- `credentials-and-secrets.md` — credential/secret consent
+- `remote-access-and-private-files.md` — private-file and remote-access consent
 - `twilio.md` — service-specific consent text
 
 ## Operating Rules
