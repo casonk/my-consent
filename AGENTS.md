@@ -22,6 +22,12 @@ Documentation-only repository for personal consent and data-processing consent s
 - Prefer additive, clearly explained documentation updates over rewrites.
 - Do not commit private personal identifiers beyond what the public consent text is meant to disclose.
 
+## Sudo Boundary
+
+Agents will never be able to run `sudo` commands in this environment. If a task requires elevated system changes, make the repo edits and run the validation that can be done without `sudo`, then give the user the exact command(s) to run.
+
+Always require the user to run those commands instead of retrying `sudo`; do not claim a sudo-backed live change was applied until the user shares the result.
+
 ## Local CI Verification
 
 Run before every push:
