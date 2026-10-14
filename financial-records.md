@@ -8,7 +8,7 @@ records when that processing is required for their intended function.
 This consent is intended to cover personal financial workflows such as account
 statement retrieval, API or current-state balance and holdings snapshots,
 receipt capture, OCR, email-derived payment notice extraction, categorization,
-itemization, analytics, and downstream reporting across my finance-pipeline
+itemization, analytics, and downstream reporting across my personal finance
 tooling.
 
 ## Scope Of Consent
