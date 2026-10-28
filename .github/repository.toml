@@ -3,7 +3,7 @@
 
 [repository]
 # One line shown on GitHub. Keep it free of private repository names and local paths.
-description = "A repository hosting my personal consent for data processing"
+description = "Personal data-processing consent records and related policy documents for the portfolio."
 
 [main_branch]
 # Direct commits and pushes to main are refused unless this is true.
